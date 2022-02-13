@@ -2,4 +2,5 @@
 
 ## Analysis of information and forecasting of the most promising area for the development of an online store in Brazil
 
-rar file contains whole project
+Taking information from SQL, analysis on Python and visualisation in Tableau.
+RAR file contains the whole project.
